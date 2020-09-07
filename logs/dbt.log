@@ -1,0 +1,265 @@
+2020-09-07 12:09:59.912952 (MainThread): Running with dbt=0.18.0
+2020-09-07 12:09:59.972164 (MainThread): Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+2020-09-07 12:10:00.053347 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.053491 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.053628 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.053761 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.053903 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054053 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054200 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054362 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054503 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054639 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054775 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.054906 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055040 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055167 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055296 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055425 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055561 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055694 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055831 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.055960 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.056092 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.056750 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.056901 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.057010 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.057161 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.057358 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.057610 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.057814 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.058378 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.058593 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.058781 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.058897 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.059029 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.059124 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.059249 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.059344 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.059464 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.059555 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.059674 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.059782 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.059926 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.060019 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.060165 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.060319 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.060459 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.060554 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.060677 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.060781 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.060904 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.060994 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.061113 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.061202 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.061320 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.061417 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.061529 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.061615 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.061731 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.061821 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.061940 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.062026 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.062566 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google/logging: missing __init__
+2020-09-07 12:10:00.062684 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.062781 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.063263 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.063368 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.063926 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google/cloud: missing __init__
+2020-09-07 12:10:00.064053 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.064152 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.064657 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.064804 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.065328 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.065435 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.065921 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.066031 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.066163 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.066259 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.066384 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.066480 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.066600 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.066707 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.067428 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.067537 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.067669 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.067765 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.067898 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.067990 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.068117 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.068212 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.068332 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.068427 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.068549 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.068651 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.068772 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.068877 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.068990 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.069076 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.069190 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.069281 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.069396 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.069481 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.069611 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.069701 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.069818 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.069908 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.070025 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.070116 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.070291 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.070384 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.070504 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.070648 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.070768 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.070859 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.070975 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.071067 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.071186 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.071273 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.071394 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/snowflake: missing __init__
+2020-09-07 12:10:00.071481 (MainThread): Not importing directory /Users/thomasschueler/Desktop/work/dbt_test/env/lib/python3.7/site-packages/google: missing __init__
+2020-09-07 12:10:00.409139 (MainThread): running dbt with arguments Namespace(cls=<class 'dbt.task.run.RunTask'>, debug=False, defer=None, exclude=None, fail_fast=False, full_refresh=False, log_cache_events=False, log_format='default', models=None, partial_parse=None, profile=None, profiles_dir='/Users/thomasschueler/.dbt', project_dir=None, record_timing_info=None, rpc_method='run', selector_name=None, single_threaded=False, state=None, strict=False, target=None, test_new_parser=False, threads=None, use_cache=True, use_colors=None, vars='{}', version_check=True, warn_error=False, which='run', write_json=True)
+2020-09-07 12:10:00.417217 (MainThread): Tracking: tracking
+2020-09-07 12:10:00.458683 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd37296b38>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd372a4eb8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd372a4dd8>]}
+2020-09-07 12:10:00.486133 (MainThread): Partial parsing not enabled
+2020-09-07 12:10:00.488491 (MainThread): Parsing macros/etc.sql
+2020-09-07 12:10:00.492512 (MainThread): Parsing macros/catalog.sql
+2020-09-07 12:10:00.500913 (MainThread): Parsing macros/adapters.sql
+2020-09-07 12:10:00.526287 (MainThread): Parsing macros/materializations/seed.sql
+2020-09-07 12:10:00.532440 (MainThread): Parsing macros/materializations/view.sql
+2020-09-07 12:10:00.536462 (MainThread): Parsing macros/materializations/table.sql
+2020-09-07 12:10:00.550198 (MainThread): Parsing macros/materializations/copy.sql
+2020-09-07 12:10:00.555840 (MainThread): Parsing macros/materializations/incremental.sql
+2020-09-07 12:10:00.571829 (MainThread): Parsing macros/materializations/snapshot.sql
+2020-09-07 12:10:00.576535 (MainThread): Parsing macros/core.sql
+2020-09-07 12:10:00.581767 (MainThread): Parsing macros/materializations/helpers.sql
+2020-09-07 12:10:00.594737 (MainThread): Parsing macros/materializations/snapshot/snapshot_merge.sql
+2020-09-07 12:10:00.597490 (MainThread): Parsing macros/materializations/snapshot/strategies.sql
+2020-09-07 12:10:00.619119 (MainThread): Parsing macros/materializations/snapshot/snapshot.sql
+2020-09-07 12:10:00.656199 (MainThread): Parsing macros/materializations/seed/seed.sql
+2020-09-07 12:10:00.681858 (MainThread): Parsing macros/materializations/incremental/helpers.sql
+2020-09-07 12:10:00.684774 (MainThread): Parsing macros/materializations/incremental/incremental.sql
+2020-09-07 12:10:00.694146 (MainThread): Parsing macros/materializations/common/merge.sql
+2020-09-07 12:10:00.710950 (MainThread): Parsing macros/materializations/table/table.sql
+2020-09-07 12:10:00.720777 (MainThread): Parsing macros/materializations/view/view.sql
+2020-09-07 12:10:00.728783 (MainThread): Parsing macros/materializations/view/create_or_replace_view.sql
+2020-09-07 12:10:00.735802 (MainThread): Parsing macros/etc/get_custom_alias.sql
+2020-09-07 12:10:00.737319 (MainThread): Parsing macros/etc/query.sql
+2020-09-07 12:10:00.738977 (MainThread): Parsing macros/etc/is_incremental.sql
+2020-09-07 12:10:00.742061 (MainThread): Parsing macros/etc/datetime.sql
+2020-09-07 12:10:00.752925 (MainThread): Parsing macros/etc/get_custom_schema.sql
+2020-09-07 12:10:00.755996 (MainThread): Parsing macros/etc/get_custom_database.sql
+2020-09-07 12:10:00.759019 (MainThread): Parsing macros/adapters/common.sql
+2020-09-07 12:10:00.813747 (MainThread): Parsing macros/schema_tests/relationships.sql
+2020-09-07 12:10:00.816700 (MainThread): Parsing macros/schema_tests/not_null.sql
+2020-09-07 12:10:00.818887 (MainThread): Parsing macros/schema_tests/unique.sql
+2020-09-07 12:10:00.821184 (MainThread): Parsing macros/schema_tests/accepted_values.sql
+2020-09-07 12:10:00.830388 (MainThread): Partial parsing not enabled
+2020-09-07 12:10:00.878267 (MainThread): Acquiring new bigquery connection "model.jaffle_shop.my_first_dbt_model".
+2020-09-07 12:10:00.904184 (MainThread): Acquiring new bigquery connection "model.jaffle_shop.my_second_dbt_model".
+2020-09-07 12:10:01.165924 (MainThread): Found 2 models, 4 tests, 0 snapshots, 0 analyses, 155 macros, 0 operations, 0 seed files, 0 sources
+2020-09-07 12:10:01.166939 (MainThread): 
+2020-09-07 12:10:01.167321 (MainThread): Acquiring new bigquery connection "master".
+2020-09-07 12:10:01.170305 (ThreadPoolExecutor-0_0): Acquiring new bigquery connection "list_datateam-244905".
+2020-09-07 12:10:01.170453 (ThreadPoolExecutor-0_0): Opening a new connection, currently in state init
+2020-09-07 12:10:01.732646 (ThreadPoolExecutor-0_0): Acquiring new bigquery connection "create_datateam-244905_dbt_thomas".
+2020-09-07 12:10:01.732981 (ThreadPoolExecutor-0_0): Acquiring new bigquery connection "create_datateam-244905_dbt_thomas".
+2020-09-07 12:10:01.733104 (ThreadPoolExecutor-0_0): Creating schema "datateam-244905.dbt_thomas".
+2020-09-07 12:10:01.733223 (ThreadPoolExecutor-0_0): Opening a new connection, currently in state closed
+2020-09-07 12:10:01.733788 (ThreadPoolExecutor-0_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2020-09-07 12:10:02.508152 (ThreadPoolExecutor-1_0): Acquiring new bigquery connection "list_datateam-244905_dbt_thomas".
+2020-09-07 12:10:02.508387 (ThreadPoolExecutor-1_0): Opening a new connection, currently in state closed
+2020-09-07 12:10:02.508817 (ThreadPoolExecutor-1_0): Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+2020-09-07 12:10:03.097201 (MainThread): 14:10:03 | Concurrency: 1 threads (target='dev')
+2020-09-07 12:10:03.097442 (MainThread): 14:10:03 | 
+2020-09-07 12:10:03.101097 (Thread-1): Began running node model.jaffle_shop.my_first_dbt_model
+2020-09-07 12:10:03.102813 (Thread-1): 14:10:03 | 1 of 2 START table model dbt_thomas.my_first_dbt_model............... [RUN]
+2020-09-07 12:10:03.103288 (Thread-1): Acquiring new bigquery connection "model.jaffle_shop.my_first_dbt_model".
+2020-09-07 12:10:03.103480 (Thread-1): Compiling model.jaffle_shop.my_first_dbt_model
+2020-09-07 12:10:03.124902 (Thread-1): Writing injected SQL for node "model.jaffle_shop.my_first_dbt_model"
+2020-09-07 12:10:03.125801 (Thread-1): finished collecting timing info
+2020-09-07 12:10:03.142054 (Thread-1): unclosed <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49478), raddr=('216.58.212.170', 443)>
+2020-09-07 12:10:03.142311 (Thread-1): unclosed <socket.socket fd=13, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49479), raddr=('172.217.22.106', 443)>
+2020-09-07 12:10:03.142547 (Thread-1): unclosed <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49481), raddr=('172.217.22.106', 443)>
+2020-09-07 12:10:03.142701 (Thread-1): unclosed <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49480), raddr=('216.58.212.170', 443)>
+2020-09-07 12:10:03.142815 (Thread-1): unclosed <socket.socket fd=17, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49483), raddr=('172.217.22.106', 443)>
+2020-09-07 12:10:03.142931 (Thread-1): unclosed <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49482), raddr=('216.58.212.170', 443)>
+2020-09-07 12:10:03.195341 (Thread-1): Writing runtime SQL for node "model.jaffle_shop.my_first_dbt_model"
+2020-09-07 12:10:03.196139 (Thread-1): Opening a new connection, currently in state closed
+2020-09-07 12:10:03.196616 (Thread-1): On model.jaffle_shop.my_first_dbt_model: /* {"app": "dbt", "dbt_version": "0.18.0", "profile_name": "jaffle_shop", "target_name": "dev", "node_id": "model.jaffle_shop.my_first_dbt_model"} */
+
+
+  create or replace table `datateam-244905`.`dbt_thomas`.`my_first_dbt_model`
+  
+  
+  OPTIONS()
+  as (
+    /*
+    Welcome to your first dbt model!
+    Did you know that you can also configure models directly within SQL files?
+    This will override configurations stated in dbt_project.yml
+
+    Try changing "table" to "view" below
+*/
+
+
+
+with source_data as (
+
+    select 1 as id
+    union all
+    select null as id
+
+)
+
+select *
+from source_data
+
+/*
+    Uncomment the line below to remove records with null `id` values
+*/
+
+-- where id is not null
+  );
+    
+2020-09-07 12:10:05.498547 (Thread-1): finished collecting timing info
+2020-09-07 12:10:05.499253 (Thread-1): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '804edef1-7a69-4d4e-8e49-56b8111f8a35', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd376a7588>]}
+2020-09-07 12:10:05.500404 (Thread-1): 14:10:05 | 1 of 2 OK created table model dbt_thomas.my_first_dbt_model.......... [CREATE TABLE (2.0 rows, 0.0 Bytes processed) in 2.40s]
+2020-09-07 12:10:05.500571 (Thread-1): Finished running node model.jaffle_shop.my_first_dbt_model
+2020-09-07 12:10:05.501110 (Thread-1): Began running node model.jaffle_shop.my_second_dbt_model
+2020-09-07 12:10:05.502048 (Thread-1): 14:10:05 | 2 of 2 START view model dbt_thomas.my_second_dbt_model............... [RUN]
+2020-09-07 12:10:05.502343 (Thread-1): Acquiring new bigquery connection "model.jaffle_shop.my_second_dbt_model".
+2020-09-07 12:10:05.502457 (Thread-1): Compiling model.jaffle_shop.my_second_dbt_model
+2020-09-07 12:10:05.510624 (Thread-1): Writing injected SQL for node "model.jaffle_shop.my_second_dbt_model"
+2020-09-07 12:10:05.511077 (Thread-1): finished collecting timing info
+2020-09-07 12:10:05.532742 (Thread-1): Writing runtime SQL for node "model.jaffle_shop.my_second_dbt_model"
+2020-09-07 12:10:05.533202 (Thread-1): Opening a new connection, currently in state closed
+2020-09-07 12:10:05.533664 (Thread-1): On model.jaffle_shop.my_second_dbt_model: /* {"app": "dbt", "dbt_version": "0.18.0", "profile_name": "jaffle_shop", "target_name": "dev", "node_id": "model.jaffle_shop.my_second_dbt_model"} */
+
+
+  create or replace view `datateam-244905`.`dbt_thomas`.`my_second_dbt_model`
+  OPTIONS()
+  as -- Use the `ref` function to select from other models
+
+select *
+from `datateam-244905`.`dbt_thomas`.`my_first_dbt_model`
+where id = 1;
+
+
+2020-09-07 12:10:06.803696 (Thread-1): finished collecting timing info
+2020-09-07 12:10:06.804441 (Thread-1): Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '804edef1-7a69-4d4e-8e49-56b8111f8a35', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd3764e4a8>]}
+2020-09-07 12:10:06.805579 (Thread-1): 14:10:06 | 2 of 2 OK created view model dbt_thomas.my_second_dbt_model.......... [CREATE VIEW in 1.30s]
+2020-09-07 12:10:06.805720 (Thread-1): Finished running node model.jaffle_shop.my_second_dbt_model
+2020-09-07 12:10:06.819254 (MainThread): Acquiring new bigquery connection "master".
+2020-09-07 12:10:06.819732 (MainThread): 14:10:06 | 
+2020-09-07 12:10:06.819900 (MainThread): 14:10:06 | Finished running 1 table model, 1 view model in 5.65s.
+2020-09-07 12:10:06.820045 (MainThread): Connection 'master' was properly closed.
+2020-09-07 12:10:06.820158 (MainThread): Connection 'model.jaffle_shop.my_second_dbt_model' was properly closed.
+2020-09-07 12:10:06.831542 (MainThread): 
+2020-09-07 12:10:06.831781 (MainThread): Completed successfully
+2020-09-07 12:10:06.831956 (MainThread): 
+Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+2020-09-07 12:10:06.832211 (MainThread): Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd375ad4a8>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd37563b00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fbd3768e668>]}
+2020-09-07 12:10:06.832480 (MainThread): Flushing usage events
+2020-09-07 12:10:07.252410 (MainThread): unclosed <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49486), raddr=('216.58.212.170', 443)>
+2020-09-07 12:10:07.252715 (MainThread): unclosed <socket.socket fd=15, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('10.42.0.44', 49487), raddr=('172.217.22.106', 443)>
